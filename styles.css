@@ -4,6 +4,12 @@ body{
     font-family: 'Montserrat', 
     sans-serif;
 }
-h1{
-    color: brown;
+ .container{
+     padding-left: 1rem;
+     padding-right: 1rem ;
+
+ }
+.container-centered{
+    max-width: 600px;
+    margin: auto;
 }
